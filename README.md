@@ -1,0 +1,1 @@
+This python project takes user input to perform multiple calculations that could be useful when planning to paint a wall, such as calculating the wall area and cost of paint. Multiple fundamental python practices are used here, such as initializing variables and utilizing basic float/int calculations.
